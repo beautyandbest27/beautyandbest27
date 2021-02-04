@@ -1,15 +1,11 @@
 # Thanks for visiting my Git! 👋
 
-------------------------------------------------------------------------------------------------------
-
 ## About me
 * Highly capable web developer specialized in full-stack development with 7+ years of
 hands-on experience programming with best-in-class applications.
 Adept at driving front-end and back-end integration to ensure seamless, scalable and
 reliable application. I enjoy building projects from scratch to the end through the full
 software development life cycle, with the agile methodology.
-
--------------------------------------------------------------------------------------------------------
 
 ## Experience:
 + 7 years of experience in Python, Django development
