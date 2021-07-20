@@ -1,5 +1,7 @@
 # Thanks for visiting my Git! 👋
 
+- Hope you take a looking at this! sitttt 
+
 ## About me
 * Highly capable web developer specialized in full-stack development with 7+ years of
 hands-on experience programming with best-in-class applications.
