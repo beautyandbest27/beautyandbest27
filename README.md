@@ -1,17 +1,11 @@
 # Thanks for visiting my Git! 👋
 
 ## About me
-* Highly capable web developer specialized in full-stack development with 7+ years of
-hands-on experience programming with best-in-class applications.
-Adept at driving front-end and back-end integration to ensure seamless, scalable and
-reliable application. I enjoy building projects from scratch to the end through the full
-software development life cycle, with the agile methodology.
+* Over 9+ years of IT experience involved in various stages of the 
+Software Development Life Cycle (SDLC) from requirements gathering, 
+analysis, modeling, design, development, enhancement, test, and 
+production as a Software Engineer.
 
-## Experience:
-+ 7 years of experience in Python, Django development
-+ 6 years of experience of RDBMS like Oracle, PostgreSQL, MySQL
-+ 5 years of experience in JavaScript SPA development (VueJS, ReactJS)
-+ 3 years of experience of DevOps
 
 -------------------------------------------------------------------------------------------------------
 
